@@ -1,0 +1,42 @@
+[
+  {
+    "company": "SBI",
+    "role": "Assistant Manager",
+    "status": "Applied",
+    "apply_date": "2026-02-26",
+    "deadline": "2026-03-05",
+    "notes": ""
+  },
+  {
+    "company": "RBI",
+    "role": "Grade B Officer",
+    "status": "Test Cleared",
+    "apply_date": "2026-02-26",
+    "deadline": "2026-03-10",
+    "notes": ""
+  },
+  {
+    "company": "Google",
+    "role": "Python Developer",
+    "status": "Interview Round 1",
+    "apply_date": "2026-02-26",
+    "deadline": "2026-03-15",
+    "notes": ""
+  },
+  {
+    "company": "Microsoft",
+    "role": "AI Engineer",
+    "status": "Applied",
+    "apply_date": "2026-02-26",
+    "deadline": "2026-03-15",
+    "notes": ""
+  },
+  {
+    "company": "RRB",
+    "role": "Section Controller",
+    "status": "Exam Date Allotted",
+    "apply_date": "2026-02-26",
+    "deadline": "2026-03-02",
+    "notes": ""
+  }
+]

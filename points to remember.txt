@@ -1,0 +1,7 @@
+📋 DAY 5 TARGET: 4 Industry Level Projects
+
+Problem	Project Name	Skills Used	Time
+1	WhatsApp Chat Analyzer	File Parsing + Stats	30 min
+2	Expense Tracker Pro	OOP + JSON + Charts	40 min
+3	Job Application Tracker	CSV + Search + Alerts	30 min
+4	Python Quiz Game	OOP + JSON + Timer	40 min

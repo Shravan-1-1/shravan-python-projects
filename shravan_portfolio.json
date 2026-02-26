@@ -1,0 +1,89 @@
+{
+  "name": "Shravan",
+  "role": "Python Developer",
+  "skills": [
+    "Python",
+    "OOP",
+    "File Handling",
+    "JSON",
+    "CSV",
+    "Error Handling"
+  ],
+  "projects": [
+    {
+      "name": "Smart Bank",
+      "tech_stack": [
+        "OOP",
+        "JSON",
+        "File Handling"
+      ],
+      "status": "Completed",
+      "date": "2026-02-26"
+    },
+    {
+      "name": "Car Showroom",
+      "tech_stack": [
+        "OOP",
+        "List Comprehension"
+      ],
+      "status": "Completed",
+      "date": "2026-02-26"
+    },
+    {
+      "name": "Student Database",
+      "tech_stack": [
+        "CSV",
+        "File Handling"
+      ],
+      "status": "Completed",
+      "date": "2026-02-26"
+    },
+    {
+      "name": "Error-Proof Calculator",
+      "tech_stack": [
+        "Try/Except",
+        "Functions"
+      ],
+      "status": "Completed",
+      "date": "2026-02-26"
+    },
+    {
+      "name": "Smart Bank",
+      "tech_stack": [
+        "OOP",
+        "JSON",
+        "File Handling"
+      ],
+      "status": "Completed",
+      "date": "2026-02-26"
+    },
+    {
+      "name": "Car Showroom",
+      "tech_stack": [
+        "OOP",
+        "List Comprehension"
+      ],
+      "status": "Completed",
+      "date": "2026-02-26"
+    },
+    {
+      "name": "Student Database",
+      "tech_stack": [
+        "CSV",
+        "File Handling"
+      ],
+      "status": "Completed",
+      "date": "2026-02-26"
+    },
+    {
+      "name": "Error-Proof Calculator",
+      "tech_stack": [
+        "Try/Except",
+        "Functions"
+      ],
+      "status": "Completed",
+      "date": "2026-02-26"
+    }
+  ],
+  "last_updated": "2026-02-26 16:34"
+}

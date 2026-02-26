@@ -1,0 +1,14 @@
+[
+  {
+    "category": "Food",
+    "amount": 200.0,
+    "desc": "Milk Shake",
+    "date": "2026-02-26"
+  },
+  {
+    "category": "Study",
+    "amount": 400.0,
+    "desc": "Python Book",
+    "date": "2026-02-26"
+  }
+]

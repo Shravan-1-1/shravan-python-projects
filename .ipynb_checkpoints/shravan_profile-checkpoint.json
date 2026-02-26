@@ -1,0 +1,23 @@
+{
+  "name": "Shravan",
+  "city": "Prayagraj",
+  "skills": [
+    "Python",
+    "OOP",
+    "File Handling",
+    "JSON Handling"
+  ],
+  "projects": {
+    "Day3": [
+      "Smart Bank",
+      "Car Showroom",
+      "Library"
+    ],
+    "Day4": [
+      "File Basics",
+      "JSON Manager",
+      "JSON Manager"
+    ]
+  },
+  "target": "Govt Job + AI Developer"
+}

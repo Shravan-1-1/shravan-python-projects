@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2026-02-26",
+    "category": "Food",
+    "amount": 250,
+    "desc": "Lunch + Chai"
+  },
+  {
+    "date": "2026-02-26",
+    "category": "Transport",
+    "amount": 100,
+    "desc": "Cycle repair"
+  },
+  {
+    "date": "2026-02-26",
+    "category": "Study",
+    "amount": 300,
+    "desc": "Python course"
+  },
+  {
+    "date": "2026-02-26",
+    "category": "Food",
+    "amount": 180,
+    "desc": "Dinner"
+  },
+  {
+    "date": "2026-02-26",
+    "category": "Entertainment",
+    "amount": 150,
+    "desc": "Netflix"
+  },
+  {
+    "date": "2026-02-26",
+    "category": "Food",
+    "amount": 250,
+    "desc": "Lunch + Chai"
+  },
+  {
+    "date": "2026-02-26",
+    "category": "Transport",
+    "amount": 100,
+    "desc": "Cycle repair"
+  },
+  {
+    "date": "2026-02-26",
+    "category": "Study",
+    "amount": 300,
+    "desc": "Python course"
+  },
+  {
+    "date": "2026-02-26",
+    "category": "Food",
+    "amount": 180,
+    "desc": "Dinner"
+  },
+  {
+    "date": "2026-02-26",
+    "category": "Entertainment",
+    "amount": 150,
+    "desc": "Netflix"
+  }
+]
