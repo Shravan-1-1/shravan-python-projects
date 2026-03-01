@@ -22,7 +22,7 @@ st.sidebar.title("🔥 Shravan Job Tracker")
 st.sidebar.markdown("**Day 8 - Data Science Dashboard**")
 
 # Main Dashboard
-st.title("🎯 SHR AVAN JOB TRACKER DASHBOARD")
+st.title("🎯 SHRAVAN JOB TRACKER DASHBOARD")
 st.markdown("**RRB • SBI • RBI • SSC | Progress + Deadlines**")
 
 # Metrics Row - FIXED!
