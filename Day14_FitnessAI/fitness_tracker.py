@@ -35,9 +35,10 @@ with col1:
     st.plotly_chart(fig1, use_container_width=True)
 
 with col2:
-    # Calorie intake mock
+    # Calorie intake mock - FIXED
     calories = np.random.normal(2500, 300, 30)
-    fig2 = px.bar(x=dates.dt.day, y=calories, title="🍽️ Daily Calories")
+    days = ["Day " + str(i+1) for i in range(30)]  # Simple days
+    fig2 = px.bar(x=days, y=calories, title="🍽️ Daily Calories")
     st.plotly_chart(fig2, use_container_width=True)
 
 # ML Predictions
